@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQO2A2wGl4AZPDA63Dy16FQSML2ZAk8vI95tC6LkXsuleyw5kbPnW2k151L39w/chWZftDmq1/X8D3WPqeZ1Bw==",
+  "success": true,
+  "projectFilePath": "/Users/kevinphan/Documents/T3_2022/T3_OOD/Week_4_1_ALL_BANKS/Week_3_2.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinphan/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/kevinphan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/kevinphan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
